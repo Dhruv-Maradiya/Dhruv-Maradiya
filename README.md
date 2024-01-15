@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/dhruvmaradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvmaradiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruvmaradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvmaradiya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dhruv-maradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhruv-maradiya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15415168/dhruv-maradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhruv-maradiya" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruv_maradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv_maradiya" height="30" width="40" /></a>
 <a href="https://medium.com/@dhruvmaradiya0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhruvmaradiya0" height="30" width="40" /></a>
 </p>
